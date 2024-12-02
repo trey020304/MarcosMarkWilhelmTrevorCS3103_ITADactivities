@@ -19,5 +19,4 @@ ACTIVITIES:
 QUIZZES:
 1. Quiz (Curriculum Vitae Updated)
    - User credentials of Login:
-       > Username: Trevor Marcos
-       > Password: TrevorMarcos2004
+       > Username: Trevor Marcos; Password: TrevorMarcos2004
